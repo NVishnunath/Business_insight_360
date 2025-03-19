@@ -1,12 +1,12 @@
 # Business-Insights-360
 
-## Live Dashboard: _[Business Insights 360](https://app.powerbi.com/Redirect?action=OpenApp&appId=bbf0caa7-dee2-482e-b029-87e1e5565eab&ctid=b5f86f36-3df0-46d1-beb7-50fa19e96f79)_
+## Live Dashboard: _[Business Insights 360](https://app.powerbi.com/groups/244f5bff-d0cb-48a0-b93c-3c2b2c530a17/reports/cc56b8af-a8b5-4fcf-903b-b4ae6e8bc0fe/706186f759fbb04010b0?experience=power-bi)_
 ## Home Page :
 
 
 - **View objective:** 
 
-    **1.** Created a _[Home Page](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Home-Page.pdf)_ fro the user to navigate to different Views in the Dashboard.
+    **1.** Created a Home Page from the user to navigate to different Views in the Dashboard.
 
     **2.** The Images have navigation to their respective Views.
 
@@ -21,7 +21,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Finance View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Finance-View.pdf)_
+    **1.** Created a Dashboard for Finance View
 
 - **KPI Visuals:** KPI Visuals for Net Sales, Gross Margin % and Net Profit %, compared with their benchmark values(Last Year/Targets).
 
@@ -33,7 +33,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Sales View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Sales-View.pdf)_
+    **1.** Created a Dashboard for Sales View
   
 - **Customer Performance:** Customer Performance based on their Net Sales, Gross Margin and Gross Margin %.
 
@@ -47,7 +47,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Marketing View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Marketing-View.pdf)_
+    **1.** Created a Dashboard for Marketing View
 
 - **Product Performance:** Product Performance based on their Net Sales, Gross Margin, Gross Margin %, Net Profit and Net Profit %.
   
@@ -61,7 +61,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Supply Chain View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Supply-Chain-View.pdf)_
+    **1.** Created a Dashboard for Supply Chain View
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Error and ABS Error compared with their benchmark values(Last year).
 
@@ -73,7 +73,7 @@
 
 - **View objective:** 
 
-    **1.** Created a Dashboard for _[Executive View](https://github.com/ARYANPOKHRIYAL/Business-Insights-360/blob/Aryan/Executive-View.pdf)_
+    **1.** Created a Dashboard for Executive View
 
 - **KPI Visuals:** KPI Visuals for Forecast Accuracy, Net Sales, Gross Margin % and Net Profit % compared with their benchmark values(Last Year/Targets).
 
